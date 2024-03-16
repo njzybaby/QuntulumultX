@@ -1,0 +1,4 @@
+# 针对javdb的QuantumultX分流规则
+# 注意营养。
+# https://github.com/njzybaby/QuntulumultX
+HOST-SUFFIX,javdb.com,Proxy
