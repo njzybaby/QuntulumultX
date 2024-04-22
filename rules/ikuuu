@@ -1,0 +1,4 @@
+# 针对ikuuu节点的QuantumultX分流规则
+# 默认直连，我这经常直连更新失败，所以写个规则给自己用，TMD更新节点还得先连个节点，你说草蛋不草蛋。
+# https://github.com/njzybaby/QuntulumultX
+HOST-SUFFIX,s5rnw.no-mad-world.club,Direct
